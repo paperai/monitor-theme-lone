@@ -6,7 +6,7 @@ A status-page theme for [monitor](https://github.com/monitor-probe/monitor). Whi
 
 ## Install
 
-Download `theme.tar.gz` from [Releases](https://github.com/ubeep/monitor-theme-lone/releases). In the hub admin, open Themes and upload it. Or extract it yourself:
+Download `theme.tar.gz` from [Releases](https://github.com/paperai/monitor-theme-lone/releases). In the hub admin, open Themes and upload it. Or extract it yourself:
 
 ```bash
 tar xzf theme.tar.gz -C /path/to/themes/ume
